@@ -5,6 +5,13 @@ title: About This Theme
 
 # Lanyon
 
+## Author
+
+**Mark Otto**
+- <https://github.com/mdo>
+- <https://twitter.com/mdo>
+
+
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
 ![Lanyon](https://f.cloud.github.com/assets/98681/1825266/be03f014-71b0-11e3-9539-876e61530e24.png)
@@ -123,13 +130,6 @@ Lanyon has two branches, but only one is used for active development.
 
 - `master` for development.  **All pull requests should be to submitted against `master`.**
 - `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
 
 
 ## License
