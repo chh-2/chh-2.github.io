@@ -2,7 +2,7 @@
 title:               CSCI 362
 tagline:             'Chloe Harris - Fall 2020'
 description:         'A simple blog to document my Software Engineering course (CSCI 362) at the College of Charleston. Theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 https://chh-2.github.io/
+url:                 https://chh-2.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
