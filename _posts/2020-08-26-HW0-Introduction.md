@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HW0\: Introduction
+title: "HW0: Introduction"
 ---
 
 **Name:** Chloe Harris  
