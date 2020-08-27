@@ -4,7 +4,7 @@ title: "HW0: Introduction"
 ---
 
 **Name:** Chloe Harris  
-**Major:** Computer Science B.S.  
+**Major:** Computer Science, B.S.  
 **Minor(s):** Sociology, Math  
 **Graduation Date:** May 2021  
 
