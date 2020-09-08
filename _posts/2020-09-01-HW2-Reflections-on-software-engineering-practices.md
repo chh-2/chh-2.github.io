@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HW2: Reflections on Software Engineering Best Practices"
+title: "HW2: Reflections on Software Engineering Practices"
 ---
 
 Three articles, "No Silver Bullet," "Kode Vicious," and "Google Code Repo" all express concerns and possible approaches to developing and scaling software solutions.  
