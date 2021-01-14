@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stupid or Solid"
+title: "Stupid or Solid?"
 ---
 
 XXX
