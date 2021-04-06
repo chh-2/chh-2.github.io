@@ -14,12 +14,12 @@ The user, bringing experience from the app’s web UI, expected to tap on a chec
 One part of the reason the issue hasn’t been fixed yet probably has to do with it being a widget issue. From what I’ve gathered over the course of this semester, interactions between app data and what displays in a widget are similar but distinct to coding directly within the app. The graphical portion of the app has to correctly pull information from within the app, but has a limited area to display and is built up differently than the app pages which seem to have .xml layouts. It probably also isn’t prioritized as highly given that the functionality exists within the app but not everyone uses widgets.  
 
 
-### 6.5  
+### 6.5 - Create Your Bug Tracker Account  
 
 Habitica uses GitHub as its issue tracker.  
 
 
-### 6.6  
+### 6.6 - The Anatomy of a Good Bug Report  
 
 We have actually considered looking at the bug described above. After attempting to reproduce sync issues related to several other bugs and not being able to reliably reproduce them, the widget issue was easily reproducible.
 
@@ -31,7 +31,7 @@ System:		Moto g Power; Android 10
 ```
 
 
-### 6.7  
+### 6.7 - Bug Triage  
 
 Bug reporting for Habitica isn’t set up with an active triage plan as far as I can tell, at least not for the Android app. There are several ways for a user to submit a bug: either directly in the app, through email, or through GitHub directly. Issues that are submitted through the app or email don’t seem to be added to the GitHub issues list until they have been triaged by the primary developers. There do seem to be several issues related to refreshing certain pages or the app as a whole that don’t all seem to have an independent triage, but some of these are not reliably reproducible. Some of these issues are as follows:  
 
