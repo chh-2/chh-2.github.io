@@ -4,7 +4,7 @@ tagline:             'Chloe Harris - Spring 2020'
 description:         'A simple blog to document my Software Engineering Capstone (CSCI 462) at the College of Charleston. Theme made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 https://chh-2.github.io
 baseurl:             ''
-paginate:            5
+paginate:            15
 permalink:           pretty
 
 # About/contact
